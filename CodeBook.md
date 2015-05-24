@@ -1,7 +1,6 @@
 # Code Book
 =====================================================================================
-This code book describes the variables, the data, 
-and transformations or work that I performed to clean up the data. 
+This code book describes the variables, the data, and transformations or work that I performed to clean up the data. 
 =====================================================================================
 
 ## Input Data
