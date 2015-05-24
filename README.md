@@ -1,6 +1,8 @@
 # GettingAndCleaningData
 
-The input dataset is the Human Activity Recognition Using Smartphones Dataset which could be downloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>. Our goal is to collect, work with, and clean the data set. 
+The input dataset is the Human Activity Recognition Using Smartphones Dataset which could be downloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>. 
+
+Our goal of this project is to collect, work with, and clean the data set. 
 
 The repository includes the following files:
 
