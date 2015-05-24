@@ -58,6 +58,8 @@ table(myData$activity)
 table(myData$subject)
 tidyData <- aggregate(myData, 
               by=list(myData$subject, myData$activity),FUN=mean)
+tidyData = tidyData[, c(-1, -2)]
+names(tidyData)
 dim(tidyData)
 head(tidyData)
 for (i in 1:dim(tidyData)[1]) {
