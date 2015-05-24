@@ -26,9 +26,9 @@ We ran a for loop on each observation of "myData" and transformed the activities
 which is clear enough to describe the meaning of the variables. And we have 2 additional variables: "activity" and "subject". 
 Note the "subject" variable is read from the "subject_train.txt" and "subject_test.txt" for training data and testing data, respectively.
 
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
 This is our output dataset, and we wrote it into "tidyData.txt".
 
 ## Output Data
 
-The 
+Our output dataset "tidyData.txt" has 180 rows and 83 columns. The first 81 columns represent the 81 measurements on the mean and standard deviation for each measurement, and we have additional two varialbles "activity" and "subject". And each of the 180 rows represent the average of each variable for each activity and each subject. Note we have 6 levels of activities and 30 different subjects, thus we obtained 180 rows. Our output data is tidy.
