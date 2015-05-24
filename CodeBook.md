@@ -13,7 +13,7 @@ The input dataset is the Human Activity Recognition Using Smartphones Dataset wh
 As required, I created one R script called run_analysis.R that did the following. 
 
 1. Merges the training and the test sets to create one data set, which is called "mergedData".
-2. 
+
 2. Extracts only the measurements on the mean and standard deviation for each measurement. By using the grep command in R to grep
 the variables whose name includes "mean()" or "std()", we obtained a subset of "mergedData", and call the dataset "myData".
 
